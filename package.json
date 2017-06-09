@@ -1,0 +1,26 @@
+{
+  "name": "react-native-slide-alert",
+  "version": "0.0.1",
+  "description": "A slide from top alert view for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripeworks/react-native-slide-alert.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "slide",
+    "alert",
+    "message"
+  ],
+  "author": "Ripeworks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ripeworks/react-native-slide-alert/issues"
+  },
+  "homepage": "https://github.com/ripeworks/react-native-slide-alert#readme"
+}
